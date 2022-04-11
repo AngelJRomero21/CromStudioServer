@@ -3,4 +3,4 @@ Pagina Web De CromStudioServer
 
 
 
-https://cromstudio.mooo.com
+https://server.cromstudio.ml/
