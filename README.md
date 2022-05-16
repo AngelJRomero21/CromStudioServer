@@ -1,5 +1,5 @@
 # CromStudioServer
-wEB CromStudioServer
+WEB CromStudioServer
 
 
 https://server.linux-click.ml
